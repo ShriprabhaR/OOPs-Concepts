@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\OOPSDemo\OOPSDemo\obj\Debug\netcoreapp3.1\OOPSDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\OOPSDemo\OOPSDemo\obj\Debug\netcoreapp3.1\OOPSDemo.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\OOPSDemo\OOPSDemo\obj\Debug\netcoreapp3.1\OOPSDemo.AssemblyInfo.cs
+C:\Users\HP\source\repos\OOPSDemo\OOPSDemo\obj\Debug\netcoreapp3.1\OOPSDemo.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\OOPSDemo\OOPSDemo\obj\Debug\netcoreapp3.1\OOPSDemo.sourcelink.json
+C:\Users\HP\source\repos\OOPSDemo\OOPSDemo\bin\Debug\netcoreapp3.1\OOPSDemo.exe
+C:\Users\HP\source\repos\OOPSDemo\OOPSDemo\bin\Debug\netcoreapp3.1\OOPSDemo.deps.json
+C:\Users\HP\source\repos\OOPSDemo\OOPSDemo\bin\Debug\netcoreapp3.1\OOPSDemo.runtimeconfig.json
+C:\Users\HP\source\repos\OOPSDemo\OOPSDemo\bin\Debug\netcoreapp3.1\OOPSDemo.runtimeconfig.dev.json
+C:\Users\HP\source\repos\OOPSDemo\OOPSDemo\bin\Debug\netcoreapp3.1\OOPSDemo.dll
+C:\Users\HP\source\repos\OOPSDemo\OOPSDemo\bin\Debug\netcoreapp3.1\OOPSDemo.pdb
+C:\Users\HP\source\repos\OOPSDemo\OOPSDemo\obj\Debug\netcoreapp3.1\OOPSDemo.dll
+C:\Users\HP\source\repos\OOPSDemo\OOPSDemo\obj\Debug\netcoreapp3.1\OOPSDemo.pdb
+C:\Users\HP\source\repos\OOPSDemo\OOPSDemo\obj\Debug\netcoreapp3.1\OOPSDemo.genruntimeconfig.cache
